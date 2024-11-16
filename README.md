@@ -1,2 +1,2 @@
 # YouTube Clone
-![My Image](project-img.png)
+![My Image](./assets/images/project-img.png)
